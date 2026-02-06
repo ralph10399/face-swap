@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+
+# Python environment
+venv/
+facefusion/venv/
+
+# Large assets
+.assets/
+facefusion/.assets/
+facefusion/.jobs/
+
+# Example outputs
+examples/*.png
+examples/*.jpg
+examples/*.jpeg
